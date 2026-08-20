@@ -3,5 +3,5 @@ I - Three Labs for the ML course at Ecole Polytechnique:
 - Regression including L1/L2 regression, SVR, XGBoost, MLP, Random Forest...
 - Classification including LDA, QDA, Logistic Regression, MLP, SVM, Random Forest...
 
-II- ML Project for ML course at AUB (INDE 535):
-Performing data preprocessing, cleaning and feature engineering and then fitting supervised learning models for car price prediction.
+II- Project for ML course at AUB (INDE 535):
+Performed data preprocessing, cleaning and feature engineering and then fitted supervised learning models for car price prediction.
